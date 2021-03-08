@@ -1,2 +1,2 @@
 # Regression
-It inicludes some insights forLinear and Multi-Linear Regression Models.
+It includes some insights for Linear and Multi-Linear Regression Models.
