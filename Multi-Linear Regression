@@ -1,0 +1,5 @@
+This file contains some insights for buliding a multi-lnear model.
+
+It also has an analysis of various Transformation applied to model.
+
+Models were built with OLS and sklearn method, and accuracy for both methods along with different Transformation are shown at the end.
